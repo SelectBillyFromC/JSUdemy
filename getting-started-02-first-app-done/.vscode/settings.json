@@ -1,4 +1,6 @@
 {
     "prettier.semi": true,
-    "prettier.singleQuote": true
+    "prettier.singleQuote": true,
+    "cmake.configureOnOpen": true,
+    "files.autoSave": "afterDelay"
 }
