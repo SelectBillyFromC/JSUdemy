@@ -2,6 +2,10 @@ const backdropElement = document.getElementById('backdrop');
 const modalLinkElements = document.querySelectorAll('.info-modal');
 let infoModal;
 
+const alert = () => {
+  
+};
+
 function toggleBackdrop() {
   backdropElement.classList.toggle('visible');
 }
